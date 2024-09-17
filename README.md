@@ -56,7 +56,7 @@ doi = {10.7910/DVN/JOEVPN},<br/>
 url = {https://doi.org/10.7910/DVN/JOEVPN}<br/>
 }
 
-If you are an academic researcher, please feel free to shoot us an email and we will be happy to answer any questions.
+If you are an academic researcher, please feel free to write to us and we will be happy to answer any additional questions.
 
 ## Contact:
 
